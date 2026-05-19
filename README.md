@@ -30,4 +30,4 @@
 
 ## 📄 Лицензия
 
-MIT License
+License
